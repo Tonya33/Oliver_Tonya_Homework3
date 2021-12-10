@@ -1,4 +1,4 @@
 quizTotal = 0
 
-characters = ["Cindrella", "Sleeping Beauty", "Black Widow", "Captain America"]
-images = ["hulk.jpg", "thor.jpg", "natasha.jpg", "cap.jpg"]
+characters = ["Thor", "Spiderman", "The Thing", "Groot", "Iron Man"]
+images = ["Thor.jpg", "Spiderman.jpg", "TheThing.jpg", "Ironman.jpg"]
