@@ -1,4 +1,5 @@
 from components import vars
+from emoji import emojize
 
 
 def total(value):
